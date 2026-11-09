@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #2a1d17;
+  touch-action: none;           /* no scrolling / zooming on phones */
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+canvas {
+  display: block;
+}
